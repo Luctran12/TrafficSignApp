@@ -1,7 +1,0 @@
-{
-  "name": "TrafficSignApp",
-  "displayName": "TrafficSignApp",
-  "android": {
-      "permissions": ["CAMERA"]
-  }
-}
